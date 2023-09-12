@@ -7,7 +7,7 @@ require (
   gitea.com/macaron/inject v0.0.0-20190805023432-d4c86e31027a
 	gitea.com/macaron/macaron v1.3.2
   github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
-  github.com/go-redis/redis v6.15.7+incompatible
+  github.com/go-redis/redis v6.15.9+incompatible
   github.com/gorilla/handlers v1.4.2 // indirect
 	github.com/gorilla/sessions v1.2.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.9.6 // indirect
