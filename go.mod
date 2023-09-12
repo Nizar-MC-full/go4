@@ -5,7 +5,7 @@ go 1.13
 require (
   code.gitea.io/gitea v1.9.0-dev
   gitea.com/macaron/inject v0.0.0-20190805023432-d4c86e31027a
-	gitea.com/macaron/macaron v1.3.2
+	gitea.com/macaron/macaron v1.5.0
   github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
   github.com/go-redis/redis v6.15.7+incompatible
   github.com/gorilla/handlers v1.4.2 // indirect
