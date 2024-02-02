@@ -3,7 +3,7 @@ module github.com/sonatype-nexus-community/intentionally-vulnerable-golang-proje
 go 1.13
 
 require (
-  code.gitea.io/gitea v1.9.0-dev
+  code.gitea.io/gitea v1.21.5
   gitea.com/macaron/inject v0.0.0-20190805023432-d4c86e31027a
 	gitea.com/macaron/macaron v1.3.2
   github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
